@@ -7,7 +7,7 @@ import { defineConfig, globalIgnores } from 'eslint/config'
 export default defineConfig([
   globalIgnores(['dist']),
   {
-     base: "/https://github.com/VishakEaswar/Tamil_calander_Update.git/",
+     base: "Tamil_calander_Update",
     files: ['**/*.{js,jsx}'],
     extends: [
       js.configs.recommended,
