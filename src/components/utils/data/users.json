@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Admin User",
+    "email": "vishakeaswer@gmail.com",
+    "password": "685fc6dc70b96d274346048f8f2043a25df1cb0b7fee361964aaf26f4fbb7ce0",
+    "role": "admin"
+  },
+  {
+    "id": "2",
+    "name": "Normal User",
+    "email": "user@example.com",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "role": "user"
+  }
+]
