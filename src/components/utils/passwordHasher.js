@@ -10,6 +10,3 @@ export const hashPassword = (password) => {
   return CryptoJS.SHA256(password).toString();
 };
 
-// Example usage:
-// console.log(hashPassword('242546')); // For admin@example.com
-// console.log(hashPassword('password')); // For user@example.com
