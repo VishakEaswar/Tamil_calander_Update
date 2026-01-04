@@ -147,7 +147,7 @@ function App() {
           background: theme.palette.background.default
         }}>
           <img 
-            src="/logo.png" 
+            src={`${import.meta.env.BASE_URL}logo.png`}
             alt="Loading" 
             style={{ 
               width: 80, 
