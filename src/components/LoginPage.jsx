@@ -248,7 +248,7 @@ const LoginPage = ({ onLogin }) => {
               {/* Sample login credentials hint */}
               <Box sx={{ mt: 3, textAlign: 'center' }}>
                 <Typography variant="caption" color="textSecondary">
-                  Sample credentials: admin@example.com / password
+                 Only Authorized Personnel Can Login
                 </Typography>
               </Box>
             </Box>
